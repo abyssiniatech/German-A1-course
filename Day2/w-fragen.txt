@@ -1,5 +1,5 @@
 🇩🇪 W-Fragen Sentence Structure in German (All Rules)
-🎯 Core Rule (Never Break This)
+
 
 👉 W-word = Position 1 → Verb = Position 2 → Subject = Position 3
 
@@ -9,28 +9,29 @@ W-Frage + Verb + Subject + Rest ?
 
 🧩 The Main W-Fragen (A1)
 W-Frage	Meaning
-Wer	Who
-Was	What
-Wann	When
-Wo	Where
-Woher	From where
-Wie	How
-Wie alt	How old
-Warum	Why
+Wer	=>Who
+Was	=>What
+Wann=>	When
+Wo=>	Where
+Woher	=>From where
+Wie	=>How
+Wie alt=>	How old
+Warum=>	Why
 Wie viel / viele	How much / many
+
 1️⃣ Basic Structure (Most Important)
 Examples:
 
 Wie heißt du?
-
+ich hiebe Surafel
 Wo wohnst du?
-
+ich wonne in Addis Ababa
 Wann lernst du Deutsch?
-
+ja
 📌 Notice:
 
 W-word → 1st
-
+was das is koste
 Verb → 2nd
 
 Subject → after the verb
