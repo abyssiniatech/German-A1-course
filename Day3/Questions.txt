@@ -35,7 +35,7 @@ b) bist
 c) ist
 
 Fill-in-the-Blank (5 Qs)
-11. Ich ___ müde. → bin
+11. Ich _bin müde. → bin
 12. Du ___ hungrig. → bist
 13. Er ___ groß. → ist
 14. Wir ___ glücklich. → sind
@@ -73,11 +73,11 @@ b) er ✅
 c) sie
 
 Matching (5 Qs) – Match English → German
-26. I → ___
-27. You (singular) → ___
-28. We → ___
-29. She → ___
-30. They → ___
+26. I → ___ich
+27. You (singular) → ___du
+28. We → ___wir
+29. She → ___sie
+30. They → ___sie
 
 Answer Key
 26. ich
