@@ -17,9 +17,9 @@ the child	   das Kind
 
 2️⃣ The Three Articles (Basic Meaning)
 Article	Gender	Simple Meaning
-der	masculine	male
-die	feminine	female
-das	neutral	thing / child / idea
+der	=> masculine	male
+die=>	feminine	female
+das=>	neutral	thing / child / idea
 
 ⚠️ Gender is GRAMMAR gender, not real life only.
 
