@@ -1,0 +1,204 @@
+Day 5 – Zahlen, Uhrzeit, Wochentage (Numbers, Time, Days)
+1️⃣ Numbers in German (0–20)
+4
+Number	German	Pronunciation
+0	null	nool
+1	eins	ayns
+2	zwei	tsvai
+3	drei	dry
+4	vier	feer
+5	fünf	foonf
+6	sechs	zeks
+7	sieben	zee-ben
+8	acht	akht
+9	neun	noyn
+10	zehn	tsayn
+11	elf	elf
+12	zwölf	tsvelf
+13	dreizehn	dry-tsayn
+14	vierzehn	feer-tsayn
+15	fünfzehn	foonf-tsayn
+16	sechzehn	zekh-tsayn
+17	siebzehn	zeeb-tsayn
+18	achtzehn	akht-tsayn
+19	neunzehn	noyn-tsayn
+20	zwanzig	tsvan-tsig
+
+Example sentences:
+
+Ich habe zwei Bücher.
+(I have two books)
+
+Wir sind zwanzig Studenten.
+(We are twenty students)
+
+2️⃣ Numbers 21–100
+
+German numbers combine one + and + twenty.
+
+Example pattern:
+
+ein + und + zwanzig
+
+Examples:
+
+Number	German
+21	einundzwanzig
+22	zweiundzwanzig
+30	dreißig
+40	vierzig
+50	fünfzig
+60	sechzig
+70	siebzig
+80	achtzig
+90	neunzig
+100	hundert
+
+Examples:
+
+Ich bin einundzwanzig Jahre alt.
+
+Der Preis ist vierzig Euro.
+
+3️⃣ Days of the Week (Wochentage)
+4
+English	German
+Monday	Montag
+Tuesday	Dienstag
+Wednesday	Mittwoch
+Thursday	Donnerstag
+Friday	Freitag
+Saturday	Samstag
+Sunday	Sonntag
+
+Examples:
+
+Heute ist Donnerstag.
+(Today is Thursday)
+
+Ich arbeite am Montag.
+(I work on Monday)
+
+Important rule:
+
+am + Tag
+
+Example:
+
+am Montag
+
+am Freitag
+
+4️⃣ Telling Time in German (Uhrzeit)
+4
+
+Basic structure:
+
+Es ist + Zeit
+
+Examples:
+
+Time	German
+7:00	Es ist sieben Uhr
+8:00	Es ist acht Uhr
+9:00	Es ist neun Uhr
+Important Time Expressions
+German	English
+Viertel nach	quarter past
+Halb	half
+Viertel vor	quarter to
+
+Examples:
+
+7:15 → Es ist Viertel nach sieben
+
+7:30 → Es ist halb acht
+
+7:45 → Es ist Viertel vor acht
+
+⚠️ Important German rule:
+
+halb acht = 7:30
+
+It means half to eight, not half past seven.
+
+5️⃣ Listening Practice 🎧
+
+Practice listening to numbers and dates.
+
+Search these:
+
+YouTube
+
+"German numbers 1–100 pronunciation"
+
+"German telling time A1"
+
+Good channels:
+
+Easy German
+
+DW Deutsch Lernen
+
+Learn German with Anja
+
+6️⃣ Speaking Practice 🗣
+
+Say these sentences aloud:
+
+Ich stehe um sechs Uhr auf.
+
+Heute ist Donnerstag.
+
+Morgen ist Freitag.
+
+Ich lerne Deutsch jeden Tag.
+
+7️⃣ Writing Practice ✍️
+
+Write your weekly schedule in German.
+
+Example:
+
+Montag:
+Ich lerne Deutsch und programmiere.
+
+Dienstag:
+Ich studiere React und Englisch.
+
+Mittwoch:
+Ich höre deutsche Podcasts.
+
+Donnerstag:
+Ich übe Sprechen.
+
+Freitag:
+Ich wiederhole meine Lektionen.
+
+Samstag:
+Ich programmiere Projekte.
+
+Sonntag:
+Ich ruhe mich aus.
+🎯 Your Tasks Today (1–1.5 hours)
+1️⃣ Memorize
+
+Numbers 0–100
+
+Days of the week
+
+Time expressions
+
+2️⃣ Speaking
+
+Say 20 sentences with numbers.
+
+Example:
+
+Ich habe drei Bücher.
+
+Ich arbeite acht Stunden.
+
+3️⃣ Writing
+
+Write your weekly schedule in German.
