@@ -1,0 +1,123 @@
+Section 1 – Personal Information (20 questions)
+#	Question (German)	Answer (German)
+1	Wie heißt du?	Ich heiße Surafel.
+2	Wer bist du?	Ich bin Surafel.
+3	Wie alt bist du?	Ich bin 22 Jahre alt.
+4	Wo wohnst du?	Ich wohne in Addis Abeba.
+5	Was machst du?	Ich bin Student.
+6	Welche Sprache sprichst du?	Ich spreche Amharisch und Englisch.
+7	Woher kommst du?	Ich komme aus Äthiopien.
+8	Hast du Geschwister?	Ja, ich habe zwei Brüder.
+9	Was sind deine Hobbys?	Meine Hobbys sind Lesen und Sport.
+10	Bist du verheiratet?	Nein, ich bin ledig.
+11	Welche Schule hast du besucht?	Ich habe die Rift Valley Universität besucht.
+12	Was ist dein Lieblingsessen?	Mein Lieblingsessen ist Injera.
+13	Was ist dein Lieblingsgetränk?	Mein Lieblingsgetränk ist Kaffee.
+14	Welche Stadt magst du am meisten?	Ich mag Berlin am meisten.
+15	Wann hast du Geburtstag?	Ich habe am 10. März Geburtstag.
+16	Welche Farbe magst du?	Ich mag Blau.
+17	Hast du Haustiere?	Ja, ich habe einen Hund.
+18	Wie ist deine E-Mail-Adresse?	Meine E-Mail-Adresse ist xyz@gmail.com
+.
+19	Was ist dein Lieblingsfach?	Mein Lieblingsfach ist Informatik.
+20	Was machst du gern in der Freizeit?	Ich lese gern und gehe spazieren.
+Section 2 – Daily Life & Routine (20 questions)
+#	Question	Answer
+21	Wann stehst du auf?	Ich stehe um 7 Uhr auf.
+22	Was isst du zum Frühstück?	Ich esse Brot und trinke Kaffee.
+23	Wann gehst du zur Arbeit / Schule?	Ich gehe um 8 Uhr zur Schule.
+24	Was machst du nach der Schule?	Ich mache Hausaufgaben.
+25	Wann gehst du schlafen?	Ich gehe um 22 Uhr schlafen.
+26	Wie kommst du zur Arbeit / Schule?	Ich gehe zu Fuß.
+27	Was machst du am Wochenende?	Ich treffe Freunde und gehe spazieren.
+28	Siehst du gern Filme?	Ja, ich sehe gern Filme.
+29	Liest du Bücher?	Ja, ich lese gern Bücher.
+30	Kochst du gern?	Ja, ich koche gern.
+31	Gehst du gern einkaufen?	Ja, ich gehe gern einkaufen.
+32	Spielst du Sport?	Ja, ich spiele Fußball.
+33	Hörst du Musik?	Ja, ich höre gern Musik.
+34	Wann frühstückst du?	Ich frühstücke um 7:30 Uhr.
+35	Wann isst du Mittagessen?	Ich esse um 12 Uhr Mittagessen.
+36	Wann isst du Abendessen?	Ich esse um 19 Uhr Abendessen.
+37	Gehst du oft ins Kino?	Nein, selten.
+38	Machst du Hausaufgaben?	Ja, ich mache Hausaufgaben jeden Tag.
+39	Trinkst du gern Tee oder Kaffee?	Ich trinke gern Kaffee.
+40	Fährst du gern Fahrrad?	Ja, ich fahre gern Fahrrad.
+Section 3 – Family & Friends (15 questions)
+#	Question	Answer
+41	Hast du einen Bruder oder eine Schwester?	Ja, ich habe einen Bruder und eine Schwester.
+42	Wie heißt dein Vater?	Mein Vater heißt Abebe.
+43	Wie heißt deine Mutter?	Meine Mutter heißt Selam.
+44	Hast du Großeltern?	Ja, ich habe Großeltern.
+45	Hast du Kinder?	Nein, ich habe keine Kinder.
+46	Wie alt ist dein Bruder?	Mein Bruder ist 25 Jahre alt.
+47	Wie alt ist deine Schwester?	Meine Schwester ist 20 Jahre alt.
+48	Verstehst du dich gut mit deiner Familie?	Ja, ich verstehe mich gut.
+49	Hast du einen besten Freund?	Ja, mein bester Freund heißt Samuel.
+50	Spielst du gern mit Freunden?	Ja, ich spiele gern Fußball mit Freunden.
+51	Gehst du oft mit Freunden ins Kino?	Ja, manchmal.
+52	Rufst du deine Familie oft an?	Ja, jeden Tag.
+53	Wohnst du mit deiner Familie?	Ja, ich wohne mit meiner Familie.
+54	Magst du deine Nachbarn?	Ja, sie sind nett.
+55	Wie viele Personen gibt es in deiner Familie?	Es gibt fünf Personen.
+Section 4 – Numbers, Time, and Dates (15 questions)
+#	Question	Answer
+56	Wie viel Uhr ist es?	Es ist 10 Uhr.
+57	Wann beginnt die Schule?	Sie beginnt um 8 Uhr.
+58	Wann endet die Schule?	Sie endet um 15 Uhr.
+59	Wie viele Tage hat die Woche?	Sie hat 7 Tage.
+60	Welcher Tag ist heute?	Heute ist Montag.
+61	Welcher Tag war gestern?	Gestern war Sonntag.
+62	Welcher Tag ist morgen?	Morgen ist Dienstag.
+63	In welchem Monat bist du geboren?	Ich bin im März geboren.
+64	Wie viele Geschwister hast du?	Ich habe zwei Geschwister.
+65	Wie viel kostet das Brot?	Es kostet 3 Euro.
+66	Um wie viel Uhr gehst du schlafen?	Ich gehe um 22 Uhr schlafen.
+67	Wann hast du Geburtstag?	Ich habe am 10. März Geburtstag.
+68	Wie lange lernst du Deutsch?	Ich lerne seit drei Monaten Deutsch.
+69	Wie viele Stunden schläfst du?	Ich schlafe 8 Stunden.
+70	Wann beginnt der Unterricht?	Der Unterricht beginnt um 9 Uhr.
+Section 5 – Food, Shopping, Hobbies (20 questions)
+#	Question	Answer
+71	Was isst du gern?	Ich esse gern Pizza.
+72	Was trinkst du gern?	Ich trinke gern Wasser.
+73	Kaufst du gern Kleidung?	Ja, ich kaufe gern Kleidung.
+74	Gehst du gern ins Restaurant?	Ja, ich gehe gern ins Restaurant.
+75	Was kochst du gern?	Ich koche gern Spaghetti.
+76	Was ist dein Lieblingsobst?	Mein Lieblingsobst ist Apfel.
+77	Was ist dein Lieblingsgemüse?	Mein Lieblingsgemüse ist Karotte.
+78	Gehst du oft einkaufen?	Ja, einmal pro Woche.
+79	Magst du Süßigkeiten?	Ja, ich mag Schokolade.
+80	Spielst du Sport?	Ja, ich spiele Fußball.
+81	Siehst du gern Fernsehen?	Ja, ich sehe gern Serien.
+82	Hörst du Musik?	Ja, ich höre gern Musik.
+83	Tanzt du gern?	Ja, ich tanze gern.
+84	Schwimmst du gern?	Ja, ich schwimme gern.
+85	Liest du gern Bücher?	Ja, ich lese gern Bücher.
+86	Malst du gern?	Ja, ich male gern.
+87	Fährst du gern Fahrrad?	Ja, ich fahre gern Fahrrad.
+88	Gehst du gern spazieren?	Ja, ich gehe gern spazieren.
+89	Schreibst du gern?	Ja, ich schreibe gern.
+90	Spielst du Videospiele?	Ja, ich spiele Videospiele.
+Section 6 – W-Questions Extra Practice (10 questions)
+#	Question	Answer
+91	Wer ist dein Lehrer?	Mein Lehrer ist Herr Müller.
+92	Was machst du heute?	Ich lerne Deutsch.
+93	Wo bist du geboren?	Ich bin in Addis Abeba geboren.
+94	Wie spät ist es jetzt?	Es ist 14 Uhr.
+95	Warum lernst du Deutsch?	Ich lerne Deutsch, um zu studieren.
+96	Welches Buch liest du?	Ich lese „Deutsch A1“.
+97	Welche Stadt magst du?	Ich mag Berlin.
+98	Wer ist dein bester Freund?	Mein bester Freund ist Samuel.
+99	Wie geht es dir?	Mir geht es gut, danke.
+100	Was möchtest du trinken?	Ich möchte Wasser.
+
+✅ Usage Tips
+
+Read aloud each question and answer.
+
+Write the answers without looking to test memory.
+
+Shadow Easy German videos with these sentences.
+
+Repeat daily—after 1 month, these will cover most A1 speaking/writing questions.
