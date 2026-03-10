@@ -65,24 +65,23 @@ Ich bin Lehrer.
 
 Questions:
 
-Wie heißen Sie?
+Wie heißen Sie? mein Name is Surafel
 
-Woher kommen Sie?
-
+Woher kommen Sie? ich komme aus Athopien
 Wo wohnen Sie?
-
+ich wonne in Addis Ababa
 Was sind Sie von Beruf?
 
 4️⃣ Step 4 – Personal Pronouns
 German	English
-Ich	I
-Du	You
-Er	He
-Sie	She
-Es	It
-Wir	We
-Ihr	You (plural)
-Sie	They
+Ich      I
+Du	     You
+Er	     He
+Sie 	 She
+Es   	 It
+Wir	     We
+Ihr	     You (plural)
+Sie	     They
 
 Example:
 
