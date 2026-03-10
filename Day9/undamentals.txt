@@ -39,7 +39,7 @@ Ich komme aus Äthiopien.
 Common greetings:
 
 German	English
-Hallo	Hello
+Hallo	        Hello
 Guten Morgen	Good morning
 Guten Tag	    Good afternoon
 Guten Abend  	Good evening
