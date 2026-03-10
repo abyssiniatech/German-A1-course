@@ -41,10 +41,10 @@ Common greetings:
 German	English
 Hallo	Hello
 Guten Morgen	Good morning
-Guten Tag	Good afternoon
-Guten Abend	Good evening
-Tschüss	Bye
-Auf Wiedersehen	Goodbye
+Guten Tag	    Good afternoon
+Guten Abend  	Good evening
+Tschüss      	 Bye
+Auf Wiedersehen	 Goodbye
 
 Example:
 
