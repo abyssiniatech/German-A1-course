@@ -1,0 +1,162 @@
+German A1 – Day 11 Cheat Sheet
+1️⃣ German Plural Forms (Pluralformen)
+
+In German, nouns change in plural. There is no single rule, but there are common patterns.
+
+Singular	Plural	Meaning
+der Mann	die Männer	the men
+die Frau	die Frauen	the women
+das Kind	die Kinder	the children
+der Tisch	die Tische	the tables
+das Buch	die Bücher	the books
+Common plural endings
+Ending	Example	Meaning
+-e	der Tisch → die Tische	tables
+-er	das Kind → die Kinder	children
+-n / -en	die Frau → die Frauen	women
+-s	das Auto → die Autos	cars
+same word	der Lehrer → die Lehrer	teachers
+
+✅ Important rule
+
+Plural article is always:
+
+die
+
+Example:
+
+der Mann → die Männer
+
+das Buch → die Bücher
+
+die Frau → die Frauen
+
+2️⃣ German Prepositions (A1 Level)
+
+Today you focus on:
+
+in
+
+mit
+
+auf
+
+📍 “in” (in / inside)
+
+Used for location inside something
+
+Examples:
+
+Ich bin in der Schule.
+(I am in the school)
+
+Das Buch ist in der Tasche.
+(The book is in the bag)
+
+Wir sind im Haus.
+(We are in the house)
+
+💡
+in + dem = im
+
+Example
+in dem Haus → im Haus
+
+🤝 “mit” (with)
+
+Used for people or tools
+
+Examples:
+
+Ich gehe mit meiner Freundin.
+(I go with my girlfriend)
+
+Ich schreibe mit einem Stift.
+(I write with a pen)
+
+Ich trinke Kaffee mit Milch.
+(I drink coffee with milk)
+
+📍 “auf” (on / on top of)
+
+Used when something is on a surface
+
+Examples:
+
+Das Buch ist auf dem Tisch.
+(The book is on the table)
+
+Die Katze ist auf dem Stuhl.
+(The cat is on the chair)
+
+Das Handy liegt auf dem Bett.
+(The phone is on the bed)
+
+🧠 Quick Practice
+
+Translate:
+
+1️⃣ The book is on the table
+➡️ Das Buch ist auf dem Tisch
+
+2️⃣ I am in the house
+➡️ Ich bin im Haus
+
+3️⃣ I go with my friend
+➡️ Ich gehe mit meinem Freund
+
+🎥 Recommended YouTube Lessons
+1️⃣ German Plurals (A1)
+
+https://www.youtube.com/watch?v=F6b3uN0Xx0k
+
+Great explanation with many examples.
+
+2️⃣ German Prepositions (in / auf / mit)
+
+https://www.youtube.com/watch?v=O3y1G2YpF6E
+
+Clear explanation for beginners.
+
+3️⃣ Best A1 Grammar Channel
+
+Learn German with Anja
+
+https://www.youtube.com/watch?v=R4rM6h0q5rA
+
+Very popular for A1 beginners.
+
+💻 Small GitHub Idea (Good for your learning)
+
+Since you like pushing learning to GitHub, create:
+
+german-learning
+│
+├── day11
+│   ├── plurals.md
+│   ├── prepositions.md
+│   └── exercises.md
+
+Example commit:
+
+Day 11 German A1
+- Learned plural forms
+- Studied prepositions (in, mit, auf)
+- Added exercises
+🚀 Small Plan for Today
+
+⏱ 1 hour German
+
+1️⃣ 20 min → Study cheat sheet
+2️⃣ 20 min → Watch YouTube
+3️⃣ 20 min → Write 10 German sentences
+
+Example sentences:
+
+Das Buch ist auf dem Tisch
+
+Ich bin in der Schule
+
+Ich gehe mit meiner Freundin
+
+Then push to GitHub ✔️
